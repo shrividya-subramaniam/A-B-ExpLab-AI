@@ -22,7 +22,7 @@ A/B ExpLab AI transforms A/B testing from a manual, error-prone process into an 
 | Metric | Value |
 |:---|:---|
 | **Dataset** | Cookie Cats (90,189 users) |
-| **Agents** | 4 — Gatekeeper, Statistician, Narrator, Supervisor |
+| **Agents** | 4 (Gatekeeper, Statistician, Narrator, Supervisor) |
 | **Statistical Methods** | Chi-square, Welch's t-test, Mann-Whitney U, Bayesian Beta-Binomial |
 | **Multiple Testing Correction** | Bonferroni + Benjamini-Hochberg (FDR) |
 | **HITL Accuracy** | 100% (triggers correctly on SRM or invalid metric) |
